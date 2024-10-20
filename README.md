@@ -32,3 +32,7 @@ SQL 8.0
 
 # COMMUNICATION DIAGRAM:
 ![RAILWAY communication](https://github.com/user-attachments/assets/0773db92-6307-4789-a3f2-17ff9a8f1bdc)
+
+# Result:
+ 
+Thus the project to develope E-Ticketing system was developed using Star UML software.
